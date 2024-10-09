@@ -11,6 +11,7 @@ This is my first solidity project, all done with the help of foundry.
 ```
 git clone https://github.com/robivagner/foundry-fund-me
 cd foundry-fund-me
+make
 ```
 
 # Usage
