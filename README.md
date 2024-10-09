@@ -75,8 +75,8 @@ Head over to [faucets.chain.link](https://faucets.chain.link/) and get some test
 forge script script/DeployFundMe.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY
 ```
 
-To get the etherscan api key go to their site, sign in, hover over your name and go to api keys. 
-Then u can click add, give it a name, copy the API key token and put it in an enviromental variable in the .env file.
+To get the etherscan api key go to their [site](https://etherscan.io/), sign in, hover over your name and go to api keys. 
+Then u can click add, give it a name, copy the API key token and put it in an enviromental variable in the .env file like shown above.
 
 ## Scripts
 
@@ -96,3 +96,7 @@ forge snapshot
 ```
 
 And you'll see an output file called `.gas-snapshot`
+
+# Thank you!
+
+This is the start of my journey of becoming a smart contract developer, thank you for walking by!
